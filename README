@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Sistema de Autenticación y Gestión de Usuarios
 
 Sistema full-stack de autenticación y CRUD de usuarios desarrollado con **Express.js**, **TypeScript**, **Next.js** y **Supabase**.
